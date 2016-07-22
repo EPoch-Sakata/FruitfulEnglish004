@@ -19,25 +19,20 @@
 
   var items = [
     {
-        title: 'Item 1 Title',
-        label: '4h',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+        title: 'ÇÕÇ∂Ç‹ÇËÇÃäC',
+        label: 'WORLD 1',
+        thumbnail: 'images/Background/sample1.png'
     },
     {
-        title: 'Another Item Title',
-        label: '6h',
-        desc: 'Ut enim ad minim veniam.'
+        title: 'ê·å¥ÇÃëÂín',
+        label: 'WORLD 2',
+        thumbnail: 'images/Background/sample3.png'
     },
-    {
-        title: 'Yet Another Item Title',
-        label: '1day ago',
-        desc: 'Duis aute irure dolor cillum dolore eu fugiat nulla voluptate.'
-    },
-    {
-        title: 'Yet Another Item Title',
-        label: '1day ago',
-        desc: 'Duis aute irure dolor in reprehenderit in voluptate nulla pariatur.'
-    }
+  {
+      title: 'ééó˚ÇÃçªîô',
+      label: 'WORLD 3',
+      thumbnail: 'images/Background/sample4.png'
+}
   ];
 
   document.addEventListener('init', function(event) {
@@ -48,13 +43,10 @@
       items.forEach(function(item, index) {
         var onsListItem = '<ons-list-item tappable onclick="app.showDetail(' + index + ')">' +
             '<div class="left">' +
-              '<div class="list__item__thumbnail picture"></div>' +
+              '<div class="list__item__thumbnail picture" style="background-image:url(' + item.thumbnail + ');"></div>' +
             '</div>' +
             '<div class="center">' +
               '<div class="list__item__title">' + item.title + '</div>' +
-              '<div class="list__item__subtitle">' + item.desc + '</div>' +
-            '</div>' +
-            '<div class="right">' +
               '<span class="label">' + item.label + '</span>' +
             '</div>' +
           '</ons-list-item>'
@@ -69,15 +61,22 @@
     if(page.id === "detail-page") {
       var item = items[(page.data || {}).itemIndex] || {};
       page.querySelector('#title').innerHTML = item.title || 'foo';
-      page.querySelector('#desc').innerHTML = item.desc || 'bar';
+      // page.querySelector('#desc').innerHTML = item.desc || 'bar';
       page.querySelector('#label').innerHTML = item.label || 'baz';
+      page.querySelector('.list__item__thumbnail').setAttribute('style', 'background-image:url(' + item.thumbnail + ');')
 
       var i = 5,
         onsListContent = '',
         onsListItem = document.querySelector('#lorem-list').innerHTML;
 
-      while(--i) {
-        onsListContent += onsListItem;
+      while(i--) {
+          var onsListItem = '<ons-list-item tappable>' +
+              '<div class="left">' +
+                '<div class="list__item__title">STAGE ' + (5 - i) + '</div>' +
+              '</div>' +
+            '</ons-list-item>'
+          ;
+          onsListContent += onsListItem;
       }
 
       document.querySelector('#lorem-list').innerHTML = onsListContent;
