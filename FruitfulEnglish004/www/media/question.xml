@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<qlist>
+	<q id="700">
+		<en>He will get here ### midnight.</en>
+		<jp>彼は真夜中までに来るでしょう。</jp>
+		<hint>「～まで」という意味の前置詞は？</hint>
+		<answer>by</answer>
+		<desc>正解は by です。until は×です。解説を確認して違いを理解しておきましょう。 until「～まで（ずっと）」 継続のニュアンスを含み、継続をあらわす動詞とセットで用います。 ex. He slept until midnight. 強調されるのは、深夜まで「ずっと寝る」という「継続」の意味です。 by「～までには」 cf. He will come by midnight. 強調されるのは、深夜「までに( いつでもよいので)」来るという部分で、ある時点を示します。until のように「ずっと」という継続の意味はありません。</desc>
+	</q>
+	<q id="701">
+		<en>Of the total world population ### six billion one hundred million people, three billion seven hundred million, which is around 61 percent, are in Asia.</en>
+		<jp>世界人口61 億人のうちアジアが37 億人で約61％を占める。</jp>
+		<answer>of</answer>
+		<desc>100 人の村「a village of 100 people」</desc>
+	</q>
+	<q id="702">
+		<en>### the total world population of six billion one hundred million people, 8 hundred million, which is around 13 percent, are in Africa.</en>
+		<jp>世界人口61 億人のうちアフリカが８億人で13％を占める。</jp>
+		<hint>～のうち</hint>
+		<answer>Among, Of</answer>
+		<desc>～のうち「among ～、of ～」 娘の成績はクラス３０人の中で下から２番目に悪かった。　 My daughter's score was the second worst among(=out of) the 30 classmates.</desc>
+	</q>
+	<q id="703">
+		<en>The ratings downgrade of AIG in September of 2008 ### a massive liquidity crisis for the company.</en>
+		<jp>2008 年9 月の格付け機関によるAIG の格下げは、途方もない流動性危機を会社にもたらした。</jp>
+		<hint>「A は B をもたらした」という意味の動詞。</hint>
+		<answer>triggered,caused</answer>
+		<desc>「A がB をもたらした」= A caused B, A triggered B</desc>
+	</q>
+	<q id="704">
+		<en>In the media as well as among politicians, over-leveraged balance sheets and obscene levels of executive compensation are ### the excesses of Wall Street.</en>
+		<jp>マスコミや政治家の間では、レバレッジ過剰な貸借対照表と高すぎる役員給与レベルが『ウォール街の行き過ぎ(the excesses on Wall Street)』と呼ばれている。</jp>
+		<hint>「～と呼ばれている」という意味の語句</hint>
+		<answer>referred to as, called, dubbed, characterized as</answer>
+		<desc>refer to A as B「A をB と呼んでいる」 ex. Scientists **refer to** the gravity holding the universe together **as** Dark Matter. 「科学者たちは宇宙をつなぎとめている重力を暗黒物質と呼んでいる。」</desc>
+	</q>
+	<q id="705">
+		<en>The heat wave has ### for the past few days.</en>
+		<jp>ここ数日猛暑が続く。</jp>
+		<hint>天候などが続く場合の表現。</hint>
+		<answer>gone on, continued</answer>
+		<desc>～が続く「～ has gone on 」 ※ go on (自動詞で )「 進み続ける、続く」 ex. The farewell party went on until midnight. 「送別会は深夜まで続いた。」</desc>
+	</q>
+	<q id="706">
+		<en>I have been unable to carry out my work ### because my Internet connection has been spotty.</en>
+		<jp>インターネット接続が不安定なのでここ数日間( 計画通りに) 仕事ができていません。</jp>
+		<hint>「ここ数日間」</hint>
+		<answer>these past few days</answer>
+		<desc>ここ数日間「(for) these past few days」</desc>
+	</q>
+	<q id="707">
+		<en>When Lehman Brothers could not meet its debt obligations, the board of directors ### the government for help, but was turned down.</en>
+		<jp>リーマン・ブラザースが負債に対する支払いができなくなるとその取締役会は政府に対 して救済を求めたが断られてしまった。</jp>
+		<hint>「救済を求める」という慣用句。</hint>
+		<answer>turned to, asked, went to</answer>
+		<desc>turn to ～ for help「～に支援を求める」 ask を使う場合は、 ask ～ for help「～に支援を求める」 単に、go to を使っても、その意味を出すことができます。 [ よくある間違い] requested, required, demanded</desc>
+	</q>
+	<q id="708">
+		<en>Bernie Madoff ### a massive ponzi scheme to defraud investors of $33 billion.</en>
+		<jp>バーニー・メイドフは、巨大ネズミ講詐欺を起こし、投資家から330 億ドルを騙しとった。</jp>
+		<hint>「～に従事する」という意味</hint>
+		<answer>was engaged in</answer>
+		<desc>be engaged in ～「～に従事する」 ex.「孝は競馬で生計を立てている。」 Takashi is engaged in horse racing (for a living).</desc>
+	</q>
+	<q id="709">
+		<en>Somebody who exemplifies a cause or circumstance is ### a poster child in English.</en>
+		<jp>事件や政治運動の象徴は、英語でポスター・チャイルドと呼ばれています。</jp>
+		<hint>「～と呼ばれている」</hint>
+		<answer>what is called,called,referred to as,known as,labeled as,styled</answer>
+		<desc>what is called「～と呼ばれている、いわゆる～だ」</desc>
+	</q>
+	<q id="710">
+		<en>The first railway in Japan, ### Shinbashi and Yokohama, was constructed in 1872.</en>
+		<jp>新橋－横浜間の日本の最初の鉄道は1872 年に敷設された。</jp>
+		<hint>２点間の間という意味を表す前置詞</hint>
+		<answer>between</answer>
+		<desc>「～の間で」という意味の前置詞between が入ります。 一般的にはbetween は「２つのものの間に」、among は「３つ以上のものの間に」 という意味になります。</desc>
+	</q>
+	<q id="711">
+		<en>This train is bound ### Tokyo.</en>
+		<jp>この列車は東京行きです。</jp>
+		<hint>目的地をあらわす前置詞が入ります。</hint>
+		<answer>for</answer>
+		<desc>bound for ～「～行きの」 方向をあらわす前置詞for for は出発の意味を持つ言葉と一緒に用いて目的地を明示する場合に使います。 ～に向けて出発する「leave for ～」 ex. I left for NYC.「ニューヨークに向けて出発した」 ex. This train is bound for Tokyo.「この列車は東京行きです。」</desc>
+	</q>
+	<q id="712">
+		<en>After one cancelled flight and two delays, I finally got ### New York.</en>
+		<jp>１便のキャンセルと２便の遅延の後、ようやくニューヨークに到着した。</jp>
+		<hint>方向をあらわす前置詞が入ります。</hint>
+		<answer>to</answer>
+		<desc>方向をあらわす前置詞to to は方向をあらわすと同時に目的地への「到着を暗示」する場合につかいます。 get to ～「～へ到着する」 ex. I got to NYC.「ニューヨークに到着した。」</desc>
+	</q>
+	<q id="713">
+		<en>The explorers voyaged ### the North Pole.</en>
+		<jp>探検家たちは北極点を目指して冒険した。</jp>
+		<hint>目的地・方向をあらわす前置詞です。</hint>
+		<answer>toward, towards, for, to</answer>
+		<desc>方向をあらわす前置詞 toward toward は漠然と「そちらの方向へ」と方角・方向をあらわすだけで到着の 意味は含みません。 ex. The hotel faces toward the south.「そのホテルは南向きだ。」 'towards' and 'toward' are OK, but they don't show much purpose. 'To' and 'For' are better for a goal.</desc>
+	</q>
+	<q id="714">
+		<en>The train was departing ### the station when someone hit the emergency button.</en>
+		<jp>誰かが緊急停止ボタンを押した時、列車は駅から出て行くところだった。</jp>
+		<answer>from</answer>
+		<desc>ある場所に入る、出る、入っているという前置詞、out of、into についておさらいしておきましょう。 intoとout ofは対になる関係で、 into「～の中へ」 out of「 （～の中から）外へ」 のように、運動をあらわします。 ex1. The train moved out of station. 「列車は駅から出て行った。」 ex2. We entered into the hard negotiations. 「われわれは難交渉に入った。」 ［口語表現］ 口語では"The train left the station." が一般的です。</desc>
+	</q>
+	<q id="715">
+		<en>It has been 10 years ### I last saw her.</en>
+		<jp>10 年ぶりに彼女に再会する。</jp>
+		<answer>since</answer>
+		<desc>ｘ年ぶりに～する。 It will be ｘ years since I last ～ . ex. It will be 3 years since I al st went to the dentist to have a cavity puelld out. 「３年ぶりに歯医者で虫歯を１本抜いてもらう。」 「最後に会ってから」 since I last saw her 初めて会う場合はmeet を使います。 「初めて彼女に会ってから」に日本語を変 えてsince I first met her. ともできます。 see とmeet の違いもチェックしておきましょう。</desc>
+	</q>
+	<q id="716">
+		<en>I ### on my molar.</en>
+		<jp>奥歯が虫歯になった。</jp>
+		<answer>have a cavity, get a cavity</answer>
+		<desc>虫歯「cavity」 cave「洞窟」転じて穴のあいている物、「cavity」＝虫歯となります。</desc>
+	</q>
+	<q id="717">
+		<en>She ### her honeymoon.</en>
+		<jp>彼女は新婚旅行に行きました。</jp>
+		<hint>「出かける」という意味の動詞。</hint>
+		<answer>went on</answer>
+		<desc>出かけるという意味のgo on です。 旅行にでかける「go on a trip(journey)」 ex1. "Chopin went FOR a trip to Paris." ex2. "Chopin went ON a trip to Paris." ２つの違いを見てみましょう。 前者は「（気楽な気持ちで）出かけた」といったニュアンスになりますが、一般 的な「出かける」という表現はあくまでも "went on a trip" になります。</desc>
+	</q>
+	<q id="718">
+		<en>Please ### after use.</en>
+		<jp>トイレを使った後は水を流しなさい。</jp>
+		<answer>flush the toilet</answer>
+		<desc>flush the toilet「トイレで水を流す」 [ よくある間違い] Flush This is OK if the reader already knows we are talking about toilets. There are other things in the world that can be flushed. Flush a toilet This is OK if you are giving general advice to the reader. A parent might say this to a small child.</desc>
+	</q>
+	<q id="719">
+		<en>When you are actually ###, nobody can hear you.</en>
+		<jp>The device covers up the noise. 実際に用を足しているときに、まわりの人にはわからないわけ。その機器( 女性トイレ の消音機) が用を足すときの音を隠すのよ。</jp>
+		<hint>「用を足す」</hint>
+		<answer>using the toilet</answer>
+		<desc>use the toilet「用を足す」</desc>
+	</q>
+	<q id="720">
+		<en>My son ### the bed last night.</en>
+		<jp>私の息子は昨晩おねしょをした。</jp>
+		<answer>wet</answer>
+		<desc>wet one's pants「おもらしする」</desc>
+	</q>
+	<q id="721">
+		<en>He ### himself.</en>
+		<jp>彼はうんこを漏らした。</jp>
+		<answer>soiled</answer>
+		<desc>うんこを漏らす「soil oneself」</desc>
+	</q>
+	<q id="722">
+		<en>It's ### Christmas!</en>
+		<jp>もうすぐクリスマスだ。</jp>
+		<hint>「もうすぐ」</hint>
+		<answer>almost</answer>
+		<desc>もうすぐ～だ「It's almost ～」</desc>
+	</q>
+	<q id="723">
+		<en>I'm not ### this morning.</en>
+		<jp>今朝は体調がすぐれない。</jp>
+		<answer>feeling well</answer>
+		<desc>I'm not feeling well.「体調が良くない」</desc>
+	</q>
+	<q id="724">
+		<en>There are no other adjustments necessary ###.</en>
+		<jp>今のところ、他に調整が必要な事項はありません。</jp>
+		<hint>「今のところ」</hint>
+		<answer>at this time, at this moment, right now, for now, for the time being, at</answer>
+    this point, now, at present, at the present time
+    
+		<desc>今のところ「at this time」 [ よくある間違い] so far so far は現在形・過去形とは一緒に使わず、現在完了形とともに使います。「( 継 続した状態で) 今までのところでは、～」 'So far' should come with the present perfect. "There have been no other adjustments necessary so far." "So far, we have had no problems with the new program." "So far, everything has been working out quite wel lfor me in my new house."</desc>
+	</q>
+	<q id="725">
+		<en>Public projects should ### the people.</en>
+		<jp>公共事業は国民の利益に適うものでなければならない。</jp>
+		<hint>「利益になる」という意味の動詞が入ります。</hint>
+		<answer>benefit</answer>
+		<desc>～ that benefits the people「国民の役に立つ～」</desc>
+	</q>
+	<q id="726">
+		<en>North Korea ### launch a secondary attack against South Korea.</en>
+		<jp>北朝鮮は韓国に対して二次攻撃を仕掛けると脅かした。</jp>
+		<hint>「～すると脅かす」</hint>
+		<answer>threatened to</answer>
+		<desc>threaten to ～「～すると脅かす」</desc>
+	</q>
+	<q id="727">
+		<en>Article 65. ### shall be vested in the Cabinet.</en>
+		<jp>第六十五条　行政権は、内閣に属する。</jp>
+		<hint>「行政権」「行政の力」</hint>
+		<answer>Executive power</answer>
+		<desc>行政権「executive power」</desc>
+	</q>
+	<q id="728">
+		<en>### to change your approach to word-of-mouth marketing.</en>
+		<jp>そろそろ口コミマーケティングに変更する時期だ。</jp>
+		<hint>「～する時期だ、タイミングだ」</hint>
+		<answer>It is time,It is high time,It's time</answer>
+		<desc>It's time to ～「～する時期だ」</desc>
+	</q>
+	<q id="729">
+		<en>I like ### tennis.</en>
+		<jp>私はテニスをすることが好きです。</jp>
+		<hint>「～すること」という意味になるように単語を入れましょう。</hint>
+		<answer>playing,to play</answer>
+		<desc>動名詞とは、動詞＋ingで、「～すること」という意味となり、名詞の働きをします。 「テニスをすること」という名詞の意味を表現できます。 cf. I like to play tennis.（ 不定詞の名詞的用法と同じなので書き換えが可能）</desc>
+	</q>
+	<q id="730">
+		<en>### is bad for your health.</en>
+		<jp>食べすぎは体によくない。</jp>
+		<answer>Eating too much, Overeating, To eat too much</answer>
+		<desc>To eat too much「食べ過ぎること」 ここでは、「食べること」という意味となり名詞の役割（主語）になっています。 to 不定詞の「名詞的用法（～すること）」です。 動詞を名詞化する動名詞eating「食べること」で書き始めてもＯＫです。 「To eat too much」は文法的な出題のために取り上げましたが、日常生活で はあまり使われません（不自然です）。 Eating too much「食べ過ぎること」 や Overeating「食べ過ぎること」 の方がベターです。</desc>
+	</q>
+	<q id="731">
+		<en>We tried everything we could ### this problem.</en>
+		<jp>この問題を解決するために、われわれはできうるすべてのことを試した。</jp>
+		<answer>to solve</answer>
+		<desc>To solve this problem,「この問題を解決するために」 ここでは、「～するために」という意味となり副詞節となっています。 to 不定詞の「副詞的用法（～するために）」です。</desc>
+	</q>
+	<q id="732">
+		<en>Can I please have ###?</en>
+		<jp>何か飲み物をください。</jp>
+		<answer>something to drink</answer>
+		<desc>something to drink「何か食べるもの」 ここでは、「～ するための・・・」という意味になり、名詞（ この場合 something) を修飾するための形容詞となっています。 to 不定詞の「形容詞的用法（～するための･･･）」です。</desc>
+	</q>
+	<q id="733">
+		<en>My eyes are ###.</en>
+		<jp>目がしょぼしょぼする。</jp>
+		<hint>「しょぼしょぼする」という意味の動詞。</hint>
+		<answer>irritated</answer>
+		<desc>めがしょぼしょぼする「My eyes are irritated.」 cf.My eyes are burning.「目がしみる。」 という表現もあります。 Irritated and burning are slightly different in Japanese. Burning usually accompany some degree of pain beyond irritating discomfort, irritation can come from some foreign object in your eyes, suffering allergies, or eye fatigue. irritate「イライラさせる」 何かが原因でいらいらさせられる、我慢できなくなるような状態を指します。 ex. My boss often irritates me.「ボスは私をよくイライラさせる。」 be irritated「イライラする」 ex. I am often irritated by my boss.「ボスのせいでイライラする。」</desc>
+	</q>
+	<q id="734">
+		<en>My nose started ###.</en>
+		<jp>鼻がムズムズし始めた。</jp>
+		<hint>「むずむずする」「かゆい」という意味の動詞。</hint>
+		<answer>itching</answer>
+		<desc>My nose started itching. 「鼻がムズムズし始めた。」</desc>
+	</q>
+	<q id="735">
+		<en>The epicenter of the earthquake was ### the coast of Miyagi prefecture.</en>
+		<jp>震源地は宮城県沖でした。</jp>
+		<hint>「～から離れて」という意味の副詞。</hint>
+		<answer>off</answer>
+		<desc>～ ( の場所) は宮城県沖「～ is off the coast of Miyagi prefecture」 off the coast で「沖」を意味します。</desc>
+	</q>
+	<q id="736">
+		<en>I will ### to the New York branch effective Dec.21.</en>
+		<jp>１２月２１日付けでニューヨーク支社に転勤します。</jp>
+		<hint>異動する、転勤するという意味の動詞</hint>
+		<answer>be transferred, transfer, be posted, be assigned</answer>
+		<desc>transfer「異動する、転勤する」という意味の自動詞。 be transferred「転勤になった、異動させられた」</desc>
+	</q>
+	<q id="737">
+		<en>I ### feel confident in my ability to do well at my new job.</en>
+		<jp>あたらしい職場で成功する自信がほとんどない。</jp>
+		<hint>「ほとんど～ない」という否定の意味がある副詞を入れて下さい。</hint>
+		<answer>hardly,don't</answer>
+		<desc>hardly「ほとんど～ない」 cf. don't も正解ですが、全否定の場合に使います。今回は、「ほとんどない」と いうことですので、hardly を模範解答としています。</desc>
+	</q>
+	<q id="738">
+		<en>I can be ### at customers@fruitfulenglish.com from Apr. 1st.</en>
+		<jp>月1 日からは、customers@fruitfulenglish.com 宛で連絡可能です。</jp>
+		<hint>異動したときに、新しい連絡先などを伝えるときの表現です。</hint>
+		<answer>reached</answer>
+		<desc>I can be reached at ～「～宛に連絡可能です。」 I can be reached at ～ from xx/yy(Apr 1 など) 電話番号でもｅメールでもat 以下で記載できます。 ex. I can be reached at new@address.com. ex. I can be reached at 999-888-9999.</desc>
+	</q>
+	<q id="739">
+		<en>Every year around this time, I return to my hometown to ### the rice planting.</en>
+		<jp>毎年この時期に田舎に帰省し、彼らの田植えを手伝う。</jp>
+		<hint>「～さん (=them) を手伝う」という意味の言葉を入れてください。</hint>
+		<answer>help them with, help with, assist them with, assist with, help them out with, give them a hand with</answer>
+		<desc>田植えを手伝う「help them with the rice planting」 help(assist) 人 with ～「～で･･･さんを手伝う」 with を忘れるケースが非常に多い問題です。 help(assist) 人 with ～ 目的語となるのは「人」＝「～さんを助ける」 そして、with 以下の物事について「助ける」と覚えましょう。 ＜補足＞ help them **out** with も同じ意味で使えますが、イディオムです。 ここではhelp の代わりにassist を使うことはできません。</desc>
+	</q>
+	<q id="740">
+		<en>The first prize is 3 hundred million yen. The results are ### every year on New Year's Eve.</en>
+		<jp>一等は３億円。当選発表は毎年大みそか。</jp>
+		<hint>「～が発表される」という意味の動詞</hint>
+		<answer>announced</answer>
+		<desc>～ is announced「～が発表される。」 今朝のニュースで梅雨入りが発表された 「Today’s morning news says the rainy season started officially.」 cf. 同様の表現に以下のようなものもあります。 梅雨明けが宣言された。　 「The end of the rainy season was announced.」</desc>
+	</q>
+	<q id="741">
+		<en>### smartphone is already out of date.</en>
+		<jp>去年のスマホは、もう流行おくれだ。</jp>
+		<hint>「去年のは」</hint>
+		<answer>Last year's</answer>
+		<desc>去年のものは「last year's one」 流行おくれ「outdated, obsolete, out of date, old-fashioned」 最新ではない、遅れているでしたらoutdated やobsolete の方が一般的です。 Old-fashioned の場合、かなり時代遅れの意味がでます。 例えば最新がblu-ray やiphone5S の技術だとした場合、outdated だと最新で はなくなってしまった１世代前のDVD やiphone4S を指しますが、old-fashion だとカセットテープや通話のみの携帯電話を使っているようなイメージ感じです。 Obsolete は直訳の場合にはold-fashion に近いですが、大げさにいうために はDVD も含むように使うと思います。 去年の水着はもう流行おくれだ。 「Last year's swimsuit is already old-fashioned.」</desc>
+	</q>
+	<q id="742">
+		<en>I ### yesterday.</en>
+		<jp>昨日残業した。</jp>
+		<answer>worked overtime</answer>
+		<desc>work/do overtime「残業する」</desc>
+	</q>
+	<q id="743">
+		<en>I have not ### from you yet.</en>
+		<jp>まだお返事いただけてません。</jp>
+		<hint>メールなどをしたけど、まだ返事をもらえていない時などに冒頭に書く一言。「お返事が聞けていない」という意味です。</hint>
+		<answer>heard back</answer>
+		<desc>hear back from you「あなたからお返事が聞けていない」 ※こちらからの送信に対して返事がないと言っているので、「お返事」という意 味では、back が必要になります。 cf. hear from you「おなたからお便りをもらう」</desc>
+	</q>
+	<q id="744">
+		<en>I can ### this task.</en>
+		<jp>この仕事引き受けます。</jp>
+		<hint>「引き受ける、取り掛かれる」という意味の動詞、慣用句を入れましょう。</hint>
+		<answer>take up, take, take on, undertake</answer>
+		<desc>take up は「手で取る、拾い上げる」という意味が本来の意味ですが、「( 仕事 などに) とりかかる」という意味でも使います。 [ よくある間違い] take over は、from とセットで使います。 誰かが異動の際に、仕事を「引き継ぐ」という意味です。 You take a task/job over **from** another person.</desc>
+	</q>
+	<q id="745">
+		<en>I am so ### to hear that!</en>
+		<jp>それを聞いて安心しました。</jp>
+		<hint>「安心させる」という意味の動詞の受身形が入ります。</hint>
+		<answer>relieved</answer>
+		<desc>I'm so relieved.「安心しました。」 ex1. I am so relieved to hear that! Thank you for getting bacwk ith me so quickly ! ex2. Thank you so much! I am very relieved.</desc>
+	</q>
+	<q id="746">
+		<en>It was ### to hear that!</en>
+		<jp>それを聞いて安心しました！</jp>
+		<hint>「安心」という意味の名詞を入れて下さい。</hint>
+		<answer>such a relief</answer>
+		<desc>I'm so relieved.「安心しました。」 It was such a relief to do ～「～して安心しました。」</desc>
+	</q>
+	<q id="747">
+		<en>His face is as ### as a sheet.</en>
+		<jp>彼は顔面蒼白だ。</jp>
+		<hint>色を使った表現１／９</hint>
+		<answer>white</answer>
+		<desc>His face is as ( white ) as a sheet. 「彼の顔は蒼白だ。」 以下のような言い換え表現も可能です。 Wow! John(He) must be really sick!</desc>
+	</q>
+	<q id="748">
+		<en>We seem to be getting the ### treatment.</en>
+		<jp>私たちは特別待遇を受けているような気がする。</jp>
+		<hint>色を使った表現２／９</hint>
+		<answer>red carpet, vip</answer>
+		<desc>the red carpet treatment「特別な扱い（＝赤じゅうたんのを歩くようなから 転じて）」 This is really special! We seem to be getting the red carpet treatment.</desc>
+	</q>
+	<q id="749">
+		<en>Jane is ### with envy about Mike’s promotion to manager.</en>
+		<jp>ジェーンはマイクが管理職に昇進したのを妬んでいる。</jp>
+		<hint>色を使った表現３／９</hint>
+		<answer>green</answer>
+		<desc>be green with/about ～ 「～をうらやましがる」 「（顔色が青くなるほど）ねたんでいる、嫉妬している」 以下のような類似表現もあります。 Jane is really jealous about Mike’s promotion to manager.</desc>
+	</q>
+	<q id="750">
+		<en>I think that this is a ### area.</en>
+		<jp>これはグレーゾーンだと思う。</jp>
+		<hint>色を使った表現４／９</hint>
+		<answer>grey,gray</answer>
+		<desc>grey/gray「不確かな」 ※ grey はイギリス英語でのつづり 日本語でも白黒はっきり付けると言いますが、英語でもgray/grey は「あいま いな」「不確かな」という意味になります。 以下のような類似表現もあります。 I’m really not sure whether this is right or wrong.</desc>
+	</q>
+	<q id="751">
+		<en>That was a ### on his career.</en>
+		<jp>あれは彼の経歴には汚点だった。</jp>
+		<hint>色を使った表現５／９</hint>
+		<answer>black spot</answer>
+		<desc>a black spot「汚点」 以下のような類似表現もあります。 That was a terrible mistake to make for his career.</desc>
+	</q>
+	<q id="752">
+		<en>You can talk until you turn ### in the face, but he’ll never change his mind.</en>
+		<jp>あなたが疲れきるまで説得したって彼は絶対に首を縦に振らないだろう。</jp>
+		<hint>色を使った表現６／９</hint>
+		<answer>blue</answer>
+		<desc>turn blue in the face「疲れ切る」</desc>
+	</q>
+	<q id="753">
+		<en>Mary has a heart of ###.</en>
+		<jp>メアリーは心優しい人だ。</jp>
+		<hint>色を使った表現７／９</hint>
+		<answer>gold</answer>
+		<desc>a heart of gold「心やさしい、思いやりのある」 以下のような類似表現もあります。 Mary is so generous and sweet natured.</desc>
+	</q>
+	<q id="754">
+		<en>Bill was born with a ### in his mouth.</en>
+		<jp>ビルは裕福な家庭に生まれた。</jp>
+		<hint>色を使った表現８／９</hint>
+		<answer>silver spoon</answer>
+		<desc>born with a silver spoon in one's mouth「幸運の星の元に生まれた、裕福 な家に生まれた、生まれつき金持ちである、高貴な家柄に生まれた、上流の生 まれである、良い星の下に生まれた、何不自由なく育った」 他にも、grow up with a silver spoon in one's mouth などの派生表現もあ ります。 以下のような類似表現もあります。 Bill has so many opportunities.</desc>
+	</q>
+	<q id="755">
+		<en>Jenny is feeling really ### these days.</en>
+		<jp>ジェニーは最近、本当に落ち込んでいる。</jp>
+		<hint>色を使った表現９／９</hint>
+		<answer>blue</answer>
+		<desc>blue「悲しい、ショック」 日本語でも同じ意味で使われていますね。 以下のような類似表現もあります。 Jenny is really sad and depressed recently.</desc>
+	</q>
+	<q id="756">
+		<en>Please ### my previous email.</en>
+		<jp>先ほどのメールは無視して下さい。</jp>
+		<answer>disregard, ignore, pay no heed to, pay no mind to, forget about</answer>
+		<desc>Please disregard my previous email. 「先ほどのメールは無視して下さい。」 メールを送信したものの、誤った送信だったり、すでにその問題が解決した場合、 訂正をしたり、メールを読み飛ばしてもらうケースがあると思います。 そんな時に使える表現。 [ よくある間違い] neglect: Not strong enough. Could show malice. Weird usage in a request.</desc>
+	</q>
+	<q id="757">
+		<en>You have been working for the university, ###?</en>
+		<jp>大学でお仕事をされているんですよね？</jp>
+		<hint>「～ですよね？」と確認する場合のフレーズです。</hint>
+		<answer>right, is that right, is that correct</answer>
+		<desc>日本語でいう「～で間違いありませんか？」に当てはまる表現をします。 -is that right? -is that correct? これらを文末に置くことで、confirmation（確認） と同様の働きを持たせるこ とができます。基本的には、半信半疑ではなく、ある程度の確信を持って使用 することが多くなります。 ex. You have been working for the university, is that right? 大学でお仕事をされているんですよね？ ex. That student playing on the schoolyard is the one you are looking for, is that correct? あの校庭で遊んでいる子が、お探しの生徒ですね？</desc>
+	</q>
+	<q id="758">
+		<en>You can choose from the following shipping options: standard shipping, ### or twoday shipping.</en>
+		<jp>次の３つの配送方法から選択できます。通常配送、速達配送、翌日配送</jp>
+		<hint>「速達」のことは？</hint>
+		<answer>rush shipping, expedited shipping</answer>
+		<desc>standard shipping「通常配送」 rush shipping「速達配送」 two-day shipping「翌日配送」</desc>
+	</q>
+	<q id="759">
+		<en>Travel insurance is ###, not required.</en>
+		<jp>その旅行保険はオプションであり、強制ではありません。</jp>
+		<answer>optional</answer>
+		<desc>日本語で「任意の」という意味で使う「オプション」は英語の”option”とは 意味が異なるので注意が必要です。英語で「任意の」は”optional”を使います。 ex. You can choose from next delivery **options**; standard shipping, rush shipping or two-day shipping. 「次の３つの配送方法から選択できます。通常配送、速達配送、翌日配送」</desc>
+	</q>
+	<q id="760">
+		<en>Could you please check my ###?</en>
+		<jp>注文状況を確認いただけますか？</jp>
+		<answer>order status</answer>
+		<desc>注文状況「order status」 ＝「status of one’s order」 ex. You can check the status of your order by going to“ Order Status” on our website. 「当社ホームページの“注文状況”から現在の注文状況をご確認いただけます」 注文確認書「order confirmation」</desc>
+	</q>
+	<q id="761">
+		<en>We need to go straight ### this shopping arcade until we see ab utcher shop.</en>
+		<jp>この商店街沿いを、お肉屋さんがあるところまで真っすぐ進むんですね。</jp>
+		<answer>along</answer>
+		<desc>along ～「～に沿って」</desc>
+	</q>
+	<q id="762">
+		<en>We can now use these ### and maps to walk around the city and enjoy shopping.</en>
+		<jp>これらのパンフレットと地図を使って、街散策とショッピングを楽しめそうです。</jp>
+		<answer>brochures</answer>
+		<desc>パンフレット「brochures」 パンフレット(pamphlet) よりも一般的に使われます。駅や、案内所などで貰える小冊子、パンフレットのことです。</desc>
+	</q>
+	<q id="763">
+		<en>### the project kickoff meeting scheduled for next month, project goal, purposes, objectives and organization should be defined.</en>
+		<jp>来月に予定されているプロジェクト発足会議に先駆け、プロジェクトのゴール、目的、 目標、組織を定義する必要があります。</jp>
+		<hint>～に先駆けて</hint>
+		<answer>Prior to</answer>
+		<desc>Prior to ～「～に先駆けて」</desc>
+	</q>
+	<q id="764">
+		<en>You should ### from your boss.</en>
+		<jp>上司に承認を得るべきだよ。</jp>
+		<hint>「承認を取る」</hint>
+		<answer>obtain recognition, get recognition, receive recognition, gain recognition</answer>
+		<desc>gain recognition「承認を得る」</desc>
+	</q>
+	<q id="765">
+		<en>Please let me know your availability during ### March 1st.</en>
+		<jp>3 月1 日の週のご予定をお知らせください。</jp>
+		<hint>３月１日が月曜日の場合、「この週( ＝３月１日から３月５日。 ビジネスの場合は通常土日は含めない)」をどのように表現する？</hint>
+		<answer>the week of</answer>
+		<desc>○月○日の週 The week of ～ ３月１日が月曜日の場合、この週（３月１日から３月５日。ビジネスの場合は 通常土日は含めない）をThe week of March 1st と表現します。</desc>
+	</q>
+	<q id="766">
+		<en>Because of the accident, yesterday was ###.</en>
+		<jp>先日、その事故のせいで、ひどい目にあった。</jp>
+		<hint>「酷い目にあわされる」</hint>
+		<answer>crazy</answer>
+		<desc>酷い目にあわされた、ひどい状態「crazy」</desc>
+	</q>
+	<q id="767">
+		<en>I must say my current ### is pretty good.</en>
+		<jp>私が泊まっている宿泊地はとても良いと言うべきだろう。</jp>
+		<hint>「宿」</hint>
+		<answer>accommodation</answer>
+		<desc>宿泊施設「accommodation」</desc>
+	</q>
+	<q id="768">
+		<en>### that the additional matter Ichiro mentioned earlier will be discussed at the next meeting?</en>
+		<jp>先ほどイチロウが言っていた追加事項については、次回に話合うということでよろしいですね。</jp>
+		<hint>会議などで合意事項などを確認するときに良く使うフレーズです。</hint>
+		<answer>Am I correct in understanding</answer>
+		<desc>「～ということでよろしいですね」と同意を求める言い方は、Am I correct in understanding that….? を使いましょう。 直訳では、「～と理解することは正しいですか」で、that 以下に同意を求める 内容を入れます。 ex. Am I correct in understanding that you all agree with the idea? 「その案に皆賛成だということでよろしいですね？」</desc>
+	</q>
+	<q id="769">
+		<en>My daughter is suffering from an extremely high fever ### the flu.</en>
+		<jp>娘はインフルエンザが原因のかなりの高熱で苦しんでいる。</jp>
+		<hint>「～が原因で」という場合の表現</hint>
+		<answer>caused by</answer>
+		<desc>～のせいで発生した～」は、「～が原因の～」「～によって引き起こされた～」 という意味で、動詞 cause の過去分詞形を使いましょう。原因は行為の主体を 表す前置詞 by を使って表します。</desc>
+	</q>
+	<q id="770">
+		<en>You are not ### to do that, are you?</en>
+		<jp>あなたはそれをするべきではないですよね？</jp>
+		<hint>「するべきじゃない」</hint>
+		<answer>supposed</answer>
+		<desc>「～するはずだ」は、人を主語に置いて、be supposed to do を使いましょう。 「～する予定だ」を意味する be going to do よりも、「～するべきはずだが『していない』」ことを示唆する表現です。 例）What am I supposed to do? 「私は何をするべきですか？」（するように言われていたことを忘れてしまって、まだしていない時などに使う）</desc>
+	</q>
+	<q id="771">
+		<en>Thank you for ### to me so quickly.</en>
+		<jp>こんなにも早く折り返し連絡をくれてありがとうございます。</jp>
+		<answer>getting back</answer>
+		<desc>「折り返し連絡をくれてありがとう」では、Thank you for your response. や Thank you for a reply. がよく使われますが、日本語で言う「フィードバックありが とう」のような意味で、Thank you for getting back to me. と言うこともできます。 get back to me は「私に戻って来る」が本来の意味で、get back to someone 「～に折り返し連絡をする」という意味です。まさにこの表現は「この点について、 折り返し連絡をします」という意味の最終文章でも使われています。</desc>
+	</q>
+	<q id="772">
+		<en>I will check with the person in charge and ### these issues ass oon as possible.</en>
+		<jp>すぐに担当者に確認し、対処いたします。</jp>
+		<hint>「対処する」という意味の動詞</hint>
+		<answer>resolve</answer>
+		<desc>resolve「対処する」</desc>
+	</q>
+	<q id="773">
+		<en>### [Yes].</en>
+		<jp>「はい」をクリックします。</jp>
+		<hint>パソコンなどでボタンをクリックすることはいまや日常ですが、これ、言えますか？ 必須の表現。</hint>
+		<answer>Click on, Click</answer>
+		<desc>Click on ～「～をクリックする」 ex. Right-click on the“ setup.exe” file created on your desktop. 「デスクトップに作成された"setup.exe" ファイルを右クリックします。」</desc>
+	</q>
+	<q id="774">
+		<en>### the "setup.exe" file that has been created on your desktop.</en>
+		<jp>デスクトップに作成されたsetup.exe ファイルを右クリックします。</jp>
+		<answer>Right-click on, Right-click</answer>
+		<desc>click on ～「～をクリックする」 ex. Click on [Yes]. 「はい」をクリックします。</desc>
+	</q>
+	<q id="775">
+		<en>### tell me in advance how to use this device?</en>
+		<jp>このデバイスの利用方法をあらかじめ教えていただけますでしょうか？</jp>
+		<answer>Would you please, Could you please</answer>
+		<desc>「～していただけますでしょうか」は Would you …や Could you.. に please を足して丁寧さを加えましょう。 尚、Would you… や Could you… などの依頼文では、見た目が疑問文でもク エスチョンマーク（？）を置く必要はありません。依頼文でクエスチョンマー クが置かれている文章もありますが、そ れは話し言葉を意識した文章であって、 書き言葉では基本的にクエスチョンマークは必要ありません。</desc>
+	</q>
+	<q id="776">
+		<en>Please take all necessary action ###.</en>
+		<jp>それに応じて必要な手段を取ってください。</jp>
+		<hint>「それに応じて（状況に応じて）」という意味。</hint>
+		<answer>accordingly</answer>
+		<desc>accordingly「それに応じて、ふさわしく」 ビジネスなどで、状況に応じて相手にアクションを取ってほしいときに重宝し そうな表現です。</desc>
+	</q>
+	<q id="777">
+		<en>Please handle this issue ###.</en>
+		<jp>この問題についてはそちらで対応をお願いしたいのですが。</jp>
+		<hint>「そちら側で」</hint>
+		<answer>at your end</answer>
+		<desc>at your end「そちらで」 相手に依頼する方法で、単に「そちらで」という意味合いを表現できる便利な フレーズです。 たまに at your side という表現を見ますが、日本語でも、「あなたの側で」と あまり言わないように、英語でも at your side という風にはあまり言いません。 side を使うなら、 your side でなく、on our side や on my side の方が合い ます。つまり、「自分の側」＝「当方で」という意味です。注意が必要なのは、 前置詞は on を使う点です。 また、この「当方で」には、side だけでなく、上と同じ end を使った at this end という表現もあります。この場合、注意が必要なのは、at my end ではなく、 at this end だということです。 ex. Don’t worry. I’ll finish it at this end and give you feedback later. side が入ると前置詞が変わったり、ややこしいので、at your end と at this end をセットで覚えておくと楽かもしれません。</desc>
+	</q>
+	<q id="778">
+		<en>I have been ### too often lately.</en>
+		<jp>最近外食し過ぎてるんだよ。</jp>
+		<hint>「外食する」</hint>
+		<answer>eating out, dining out</answer>
+		<desc>外食をするを英語では"eat out" や"dine out" と言います。 ex, "Mom, I don't need dinner tonight. I'm going to eat out with my friends." 「お母さん、今夜は夕飯いらないから。友達と外で食べてくる。」</desc>
+	</q>
+	<q id="779">
+		<en>###, I'm sorry about dinner.</en>
+		<jp>冗談はさておき、夕食の件はごめんね。</jp>
+		<hint>「冗談はさておき」</hint>
+		<answer>All joking aside, All kidding aside</answer>
+		<desc>「冗談はさておき」を英語でいうと"all joking aside" や"all kidding aside" と言 います。 誰かと会った時場を和ませるため冗談などを交わしますよね。 そこから本題に入りたい時など、切り替えしに"all joking aside..." とよく言いま す。ビジネスの場などでも便利に使えます。 【冠詞について】 "at the dinner" vs "at dinner" You don't need "the" in this situation. Although you can also write the sentence with "the" the nuance is slightly different. If you say "I'm sorry about the dinner" it sounds as if you had somehow ruined a dinner that you went to with the other person. If you say "I'm sorry about dinner" it sounds like you were not able to make it to a dinner that you had scheduled with another person (canceled or something like that), although it could also be used if you had somehow ruined dinner. So I suppose it depends a little on what you want to say. I thought the second situation was more common and could be used in both situations.</desc>
+	</q>
+	<q id="780">
+		<en>I'll ### to you later.</en>
+		<jp>あとで埋め合わせするからね。</jp>
+		<hint>「埋め合わせる」</hint>
+		<answer>make it up</answer>
+		<desc>約束をしていたけれどどうしても行けなくなってしまう時などありますね！そ の時「後で埋め合わせをするから！」と言う時があると思います。 誰かに埋め合わせをすると言う時は英語で、"make it up to+ 人" と言います。 ex. "I will make it up to you so please trade shifts with me." 「埋め合わせをするからシフトを交換して！」</desc>
+	</q>
+	<q id="781">
+		<en>I had a day ### from work yesterday.</en>
+		<jp>昨日は仕事が休みだった。</jp>
+		<answer>off</answer>
+		<desc>カジュアルに「今日仕事休んだんだよ」などと言う時は"take a day off" を使い、 "I took the day off today." などと言います。 「昨日仕事が休みだった」と言う時なども" I had a day off from work yesterday" などと言うことができます。</desc>
+	</q>
+	<q id="782">
+		<en>### social networking services (SNS) such as Facebook, Twitter, and Instagram, you can connect with people all around the world.</en>
+		<jp>フェースブック、ツイッター、インスタグラムなどのソーシャルネットワーキングサー ビス(SNS) によって私たちは世界中の人々と繋がることができる。</jp>
+		<answer>With</answer>
+		<desc>With ～「～（の手段）によって」</desc>
+	</q>
+	<q id="783">
+		<en>There will be a ### meeting this Friday from 4:00 pm in meeting room B.</en>
+		<jp>今週の金曜日午後４時から会議室B で参加必須の会議があります。</jp>
+		<hint>「必須の」</hint>
+		<answer>mandatory</answer>
+		<desc>必須という意味で"mandatory" を使うことができます。 会議(meeting) に付けて"mandatory meeting" と書くと「参加必須の会議」 という意味で使うことができます。 他にも"mandatory test" と言ったら「受験必須のテスト」、"mandatory military service" と言ったら「義務付けられた兵役」などとと様々な表現に用 いることができます。</desc>
+	</q>
+	<q id="784">
+		<en>When you write in English even the smallest errors can be ### to you, so this is the perfect learning method for people who are seeking a high level of corerction.</en>
+		<jp>英語を書くと細かいところまで指摘してもらえるので、細かいミスまで直したい人には ピッタリの学習方法です。</jp>
+		<hint>「指摘してもらえる」</hint>
+		<answer>pointed out</answer>
+		<desc>point out「指摘する」「指し示す」</desc>
+	</q>
+	<q id="785">
+		<en>You must not eat or drink anything after 8 pm the night before your MRI.Candy or gum is ###.</en>
+		<jp>ＭＲＩ検査前日の、夜8 時以降の飲食はお控えください。キャンディーやガムも例外ではありませんよ。</jp>
+		<hint>「例外ではない」</hint>
+		<answer>no exception</answer>
+		<desc>no exception「例外ではない」 「－は例外ではない」と良く言うと思いますが、英語では"be no exception" と言います。これは人でも物でもアイディアなどでも使えます。</desc>
+	</q>
+	<q id="786">
+		<en>I would never marry a stranger ### beautiful or rich she was!</en>
+		<jp>いくらきれいでお金持ちでも、僕は知らない人とは結婚しないよ！</jp>
+		<hint>いくら～でも</hint>
+		<answer>no matter how</answer>
+		<desc>"No matter how ＋形容詞/ 副詞" で「どれ程～であろうと、どんなに～でも」 と言った表現をすることができます。 他の疑問詞を"No matter" の後に持ってくることができます。例えば"No matter who" で「例え誰が～しようとも」という使い方もできます。</desc>
+	</q>
+	<q id="787">
+		<en>Do you know the ### of the documents?</en>
+		<jp>その書類のありかをご存知ですか？</jp>
+		<hint>「～のありか、場所」</hint>
+		<answer>whereabouts</answer>
+		<desc>「行方、居所、ありか」をwhereabouts と表現することができます。 一単語でスペースなしで書きます。 これは不可算名詞で必ず"s" が付きます。</desc>
+	</q>
+	<q id="788">
+		<en>### the extensive search, the whereabouts of flight MH370 are still unknown.</en>
+		<jp>広範囲に及ぶ捜索にも関わらず、MH370 の行方は未だ知られていない。</jp>
+		<hint>「～にも関わらず」</hint>
+		<answer>Despite</answer>
+		<desc>despite ～「～にも関わらず」 前回の問題も復習しておきましょう。 whereabouts「ありか、場所」 Do you know the whereabouts of the documents? 「その資料のありかをご存知ですか？」</desc>
+	</q>
+	<q id="789">
+		<en>We have quite a ### schedule prepared for you.</en>
+		<jp>ぎゅうぎゅうな計画になっています。</jp>
+		<answer>packed</answer>
+		<desc>packed「すしづめの、ぎゅうぎゅうの」 a quite packed schedule「ぎゅうぎゅうのスケジュール」 仕事の出張や旅行で分刻みのスケジュールになっているような場合に使えます。</desc>
+	</q>
+	<q id="790">
+		<en>I've been ### busy to get myself a phone.</en>
+		<jp>忙しすぎて電話を買う暇がなかった。</jp>
+		<hint>「～しすぎて ･･･ できない」という意味になる構文です。</hint>
+		<answer>too</answer>
+		<desc>too ～ to do「～しすぎて･･･できない」</desc>
+	</q>
+	<q id="791">
+		<en>###!</en>
+		<jp>なんという偶然！</jp>
+		<hint>長く出会ってない人と偶然街中で遭遇したときの一言！</hint>
+		<answer>What a coincidence</answer>
+		<desc>what a coincidence「なんという偶然」「すごい偶然」 人と出会った時だけでなく、誕生日がたまたま同じだった時、出身が同じだっ た時など様々な時に使うことができます！</desc>
+	</q>
+	<q id="792">
+		<en>A: I was hoping you could change shifts with me. B: Fine, but you ### me one.</en>
+		<jp>A:「シフト代わってくれないかなと思って。」 B:「いいよ、でも一つ貸しだからね。</jp>
+		<answer>owe</answer>
+		<desc>日本語でも相手に何かしてあげた時など、ふざけて「この借りはきちんと返し てもらうからね！」などと言いますね。 このように英語でも相手があなたに借りができた時、"You owe me one."と言います。 反対にあなたが相手に借りができた場合は、"I owe you one." と言います。</desc>
+	</q>
+	<q id="793">
+		<en>Mr.Tanaka is going to be on ### this week.</en>
+		<jp>田中さんは今週忌引き（休暇）となります。</jp>
+		<hint>「忌引き」</hint>
+		<answer>bereavement leave</answer>
+		<desc>忌引き休暇を"Bereavement leave" と言います。Bereavement は「死別、 先立たれること」を意味します。Leave は「去る」という意味の動詞もありま すが、「休暇」（名詞）としても使われます。</desc>
+	</q>
+	<q id="794">
+		<en>Hernando ### over a week ago.</en>
+		<jp>エルナンドは1 週間以上前に入院した。</jp>
+		<hint>「入院する」という意味の動詞</hint>
+		<answer>was hospitalized</answer>
+		<desc>"Be hospitalized" で「入院する」という意味になります。 「入院させる」は"get somebody hospitalized/ get somebody admitted to the hospital" という表現ができます。</desc>
+	</q>
+	<q id="795">
+		<en>Every few minutes the vacuum I purchased ### its own.</en>
+		<jp>私の買った掃除機は毎数分、停止してしまいます。</jp>
+		<hint>電化製品などが故障で電源を入れてもすぐに止まってしまう様を表す表現を学びましょう。</hint>
+		<answer>turns off on</answer>
+		<desc>turn on「( 電源を) 入れる」 turn off「( 電源を）オフにする」</desc>
+	</q>
+	<q id="796">
+		<en>I would like to either receive a ### or else exchange the product in order to resolve this issue.</en>
+		<jp>この問題を全額払い戻しか商品交換で解決して頂けますようお願いします。</jp>
+		<hint>「払い戻し」</hint>
+		<answer>full refund</answer>
+		<desc>a full refund「払い戻し」 a product exchange「商品交換」 インターネットで頼んだ商品に問題があった場合は、ほぼこの２つの表現を覚 えておけば対処することができます。</desc>
+	</q>
+	<q id="797">
+		<en>I'm sorry for accidentally ### on you in the middle of our conversation.</en>
+		<jp>会話の途中で電話を切ってしまいごめんなさい。</jp>
+		<answer>hanging up</answer>
+		<desc>hang up「( 電話などを) 切る」 会話の途中で「in the middle of one's conversation」</desc>
+	</q>
+	<q id="798">
+		<en>Depending on the hot spring, the waters can ### various ailments such as hypertension, atopic dermatitis, anemia, and diabetes.</en>
+		<jp>温泉の種類によって高血圧、アトピー性皮膚炎、貧血や、糖尿病などの様々な症状に効きます。</jp>
+		<hint>「効く、効能がある」という意味の言葉を入れて下さい。</hint>
+		<answer>help with</answer>
+		<desc>S can help with ～「S は～に効く、効果がある」</desc>
+	</q>
+	<q id="799">
+		<en>I was ### the crime statistics that were broadcast on the news last night.</en>
+		<jp>昨夜のニュースで放送されていた犯罪統計に衝撃を受けた。</jp>
+		<hint>「ショックを受ける」という意味</hint>
+		<answer>shocked by</answer>
+		<desc>海外で文化的なギャップを受けることも多いので「ショックを受けた」はぜひ 覚えておきたい表現ですね。</desc>
+	</q>
+</qlist>

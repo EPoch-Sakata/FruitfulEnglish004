@@ -1,0 +1,179 @@
+/**
+ * Fruitful English CSS
+ */
+
+.page-bg {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: fixed;
+    padding-top: 44px;
+    box-sizing: border-box;
+}
+
+#world-bg {
+    background-image: url("../images/Background/sample1.png");
+}
+
+.label {
+    font-size: 12px;
+    color: #999;
+    padding-top: 10px;
+}
+
+.select-list {
+    position: absolute;
+    right: 0;
+    padding: 220px 0 80px;
+    width: 180px;
+    background: rgba(0, 0, 0, .1);
+    border-bottom: none;
+}
+
+.select-list .list__item {
+    background: transparent;
+}
+
+.select-list .list__item:first-child {
+    box-shadow: none;
+}
+
+.select-list .list__item:nth-child(even) {
+    padding-left: 76px;
+}
+
+.select-list .list__item:active {
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.select-list .list__item.valid:active .list__item__thumbnail {
+    margin: -3px;
+    border: 3px solid #ff7d00;
+}
+
+.select-list .list__item .center {
+    text-align: center;
+}
+
+.select-list .list__item .list__item__center {
+    background-image: none;
+}
+
+.select-list .list__item .list__item__thumbnail {
+    background-position: center center;
+    background-size: cover;
+}
+
+.world-icon {
+    width: 90px;
+    height: 90px;
+    border-radius: 45px;
+}
+
+.invalid .world-icon {
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+
+.stage-icon {
+    width: 80px;
+    height: 80px;
+}
+
+.select-list div.right {
+    display: inline;
+}
+
+#detail-page .page__background {
+    background: url("images/Background/sample1.png") no-repeat center center;
+    background-size: cover;
+}
+
+#world-list .invalid {
+
+}
+
+ons-page {
+    position: relative;
+}
+
+ons-page .majon {
+    position: absolute;
+    width: 120px;
+    left: 20px;
+    bottom: 20px;
+}
+
+ons-page .majon img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navigation-bar + .page__background + .page__content {
+    margin-top: 0;
+    top: 0;
+}
+
+#question-page .question {
+    padding: 20px 0;
+}
+
+#question-page .question-text {
+    margin-bottom: 8px;
+    padding: 12px;
+    background: url("images/Background/skulls.png") repeat top left #ffe;
+    box-shadow: 1px 1px 2px 2px rgba(0,0,0,.15);
+    color: #000;
+    font-size: 16px;
+}
+
+#question-page .english {
+}
+
+#question-page .japanese {
+}
+
+#question-page .hint {
+    margin-top: 12px;
+    padding: 12px;
+    background: rgba(0, 0, 0, .4);
+    font-size: 12px;
+    color: #fff;
+}
+
+#question-page .input-form {
+    padding: 20px 12px;
+}
+
+#question-page .user-answer {
+    width: 73%;
+    float: left;
+    font-size: 24px;
+    border: 3px solid #ccc;
+    border-radius: 6px;
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+#question-page .check-button {
+    width: 24%;
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 28px;
+    color: #fff;
+    padding: 6px;
+    box-sizing: border-box;
+    border: 3px solid #fff;
+    border-radius: 6px;
+    background: #259327;
+}
+
+.user-answer {
+    width: 100%;
+}
