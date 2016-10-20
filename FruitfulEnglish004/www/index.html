@@ -18,6 +18,7 @@
     <title>Fruitful English</title>
 
     <!-- App init -->
+    <script src="js/worlds.js"></script>
     <script src="js/app.js"></script>
 
 
@@ -26,17 +27,33 @@
 <body>
     <!-- Cordova reference -->
     <!--<script src="js/cordova.js"></script>-->
-    <script src="scripts/index.js"></script>
+    <!--<script src="scripts/index.js"></script>-->
     <!-- -->
 
     <ons-navigator id="myNavigator">
+        <ons-page id="title-page">
+            <div id="title-bg" class="world-bg page-bg" tappable onclick="app.intoTitle()">
+                <div class="title"><img src="images/Icon/title.png" /></div>
+                <div class="tap-text"><img src="images/Icon/icon_tap_to_start.png" /></div>
+                <div class="majon majon-title"></div>
+            </div>
+        </ons-page>
+    </ons-navigator>
+
+    <ons-template id="world.html">
         <ons-page id="world-page">
-            <div id="world-bg" class="page-bg">
-                <div class="majon"><img src="images/Character/char_stage1_1.png" /></div>
+            <div id="world-bg" class="world-bg page-bg">
+                <ons-toolbar>
+                    <div class="left">
+                        <ons-back-button>Back</ons-back-button>
+                    </div>
+                    <div id="world-title" class="center">WORLD SELECT</div>
+                </ons-toolbar>
+                <div class="majon"></div>
             </div>
             <ons-list id="world-list" class="select-list"></ons-list>
         </ons-page>
-    </ons-navigator>
+    </ons-template>
 
     <ons-template id="stage.html">
         <ons-page id="stage-page">
@@ -47,7 +64,8 @@
                     </div>
                     <div id="world-title" class="center">STAGE SELECT</div>
                 </ons-toolbar>
-                <div class="majon"><img src="images/Character/char_stage1_1.png" /></div>
+                <div id="world-message"></div>
+                <div class="majon"></div>
             </div>
             <ons-list id="stage-list" class="select-list"></ons-list>
         </ons-page>
@@ -62,20 +80,57 @@
                     </div>
                     <div id="stage-title" class="center">STAGE X</div>
                 </ons-toolbar>
-                <div class="majon"><img src="images/Character/char_stage1_1.png" /></div>
-                <div class="question">
-                    <div class="question-text">
-                        <div class="english"></div>
-                        <div class="japanese"></div>
-                    </div>
-                    <div class="hint"></div>
-                    <div class="input-form">
-                        <input type="text" class="user-answer" placeholder="Type your answer" name="user-answer" maxlength="50" />
-                        <input type="button" class="check-button" value="Check" />
-                        <input type="hidden" name="answer" value="" />
-                    </div>
-                    <div class="clearfix"></div>
+                <div class="majon"></div>
+                <div class="answer-result">
+                    <div class="result-correct">正解！</div>
+                    <div class="result-incorrect">不正解…</div>
                 </div>
+                <div class="answer-check bottom-button">
+                    <input type="button" class="check-button" name="check-button" value="Check" />
+                    <input type="button" class="desc-button" name="desc-button" value="回答と解説" />
+                    <input type="button" class="next-button" name="next-button" value="Next" />
+                </div>
+            </div>
+            <div class="question">
+                <div class="progress-bar"><span class="progress"></span></div>
+                <div class="question-text">
+                    <div class="english"></div>
+                    <div class="japanese"></div>
+                    <div class="qid"></div>
+                </div>
+                <div class="audio"></div>
+                <div class="hint"></div>
+                <div class="input-form">
+                    <input type="text" class="user-answer" placeholder="Type your answer" name="user-answer" maxlength="50" />
+                </div>
+                <div class="correct-answer">
+                    <div class="tab-header">回答例</div>
+                    <div class="correct-answer-text"></div>
+                </div>
+                <div class="description">
+                    <div class="tab-header">解説</div>
+                    <div class="description-text"></div>
+                </div>
+            </div>
+        </ons-page>
+    </ons-template>
+
+    <ons-template id="result.html">
+        <ons-page id="result-page">
+            <div class="world-bg page-bg">
+                <ons-toolbar>
+                    <div class="left">
+                        <ons-back-button>Back</ons-back-button>
+                    </div>
+                    <div id="result-title" class="center">STAGE RESULT</div>
+                </ons-toolbar>
+                <div class="majon-message"></div>
+                <div class="majon"></div>
+            </div>
+            <div id="result-rank"></div>
+            <div class="stage-select bottom-button">
+                <input type="button" class="stage-button" name="stage-button" value="Stage Select" />
+                <input type="button" class="world-button" name="world-button" value="World Select" />
             </div>
         </ons-page>
     </ons-template>

@@ -1,21 +1,26 @@
+﻿@charset "utf-8";
 /**
  * Fruitful English CSS
  */
+body,
+body .page {
+    font: 16px/1.6 -apple-system, 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', '游ゴシック Medium', 'メイリオ', meiryo, sans-serif;
+}
 
 .page-bg {
     width: 100%;
     height: 100%;
-    position: relative;
+    position: fixed;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    position: fixed;
     padding-top: 44px;
     box-sizing: border-box;
 }
 
+#title-bg,
 #world-bg {
-    background-image: url("../images/Background/sample1.png");
+    background-image: url("../images/Background/back_1.png");
 }
 
 .label {
@@ -26,11 +31,19 @@
 
 .select-list {
     position: absolute;
+    top: 0;
     right: 0;
     padding: 220px 0 80px;
     width: 180px;
-    background: rgba(0, 0, 0, .1);
+    background-position: top 50px center;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, .1);
+    background-size: 90%;
     border-bottom: none;
+}
+
+#world-list {
+    background-image: url("../images/Icon/icon_world_select.png");
 }
 
 .select-list .list__item {
@@ -90,7 +103,7 @@
 }
 
 #detail-page .page__background {
-    background: url("images/Background/sample1.png") no-repeat center center;
+    background: url("../images/Background/back_1.png") no-repeat center center;
     background-size: cover;
 }
 
@@ -98,8 +111,26 @@
 
 }
 
+#world-message {
+    position: absolute;
+    top: 44px;
+    width: 195px;
+    font-size: 13px;
+    padding: 12px;
+    box-sizing: border-box;
+    background: url("../images/Background/vichy.png") #f3f3e8;
+}
+
 ons-page {
     position: relative;
+}
+
+ons-page .title {
+    padding: 24px;
+}
+
+ons-page .title img {
+    max-width: 100%;
 }
 
 ons-page .majon {
@@ -107,9 +138,23 @@ ons-page .majon {
     width: 120px;
     left: 20px;
     bottom: 20px;
+    z-index: 5;
 }
 
 ons-page .majon img {
+    height: auto;
+}
+
+ons-page#title-page .tap-text {
+    position: absolute;
+    right: 20px;
+    bottom: 80px;
+    text-align: center;
+    width: 170px;
+    padding: 0;
+}
+
+ons-page#title-page .tap-text img {
     max-width: 100%;
     height: auto;
 }
@@ -119,61 +164,252 @@ ons-page .majon img {
     top: 0;
 }
 
-#question-page .question {
-    padding: 20px 0;
+.question {
+    padding: 44px 0 20px;
+    position: relative;
+    z-index: 10;
 }
 
-#question-page .question-text {
+.question.after-answer {
+    margin-bottom: 60px;
+}
+
+.question .progress-bar {
+    height: 8px;
+    margin-bottom: 12px;
+    background: #f3f3f3;
+    overflow: hidden;
+    border-bottom: 8px solid #fff;
+}
+
+.question .progress-bar .progress {
+    width: 0%;
+    height: 8px;
+    display: block;
+    background: #3de478;
+    transition-duration: .8s;
+}
+
+.question .question-text {
     margin-bottom: 8px;
     padding: 12px;
-    background: url("images/Background/skulls.png") repeat top left #ffe;
+    position: relative;
+    background: url("../images/Background/vichy.png") #f3f3e8;
     box-shadow: 1px 1px 2px 2px rgba(0,0,0,.15);
     color: #000;
-    font-size: 16px;
 }
 
-#question-page .english {
+.question .question-text .answer-text,
+.question .description .description-text strong {
+    font-weight: 700;
+    color: #ac1212;
 }
 
-#question-page .japanese {
+.question .english {
+    font-family: -apple-system-short-body, 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', '游ゴシック Light', 'メイリオ', meiryo, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.2;
+    transition-duration: .3s;
 }
 
-#question-page .hint {
+.question.after-answer .english {
+    font-size: 18px;
+}
+
+.question .japanese {
+    margin-top: 4px;
+    color: #ac1212;
+    transition-duration: .3s;
+}
+
+.question.after-answer .japanese {
+    font-size: 14px;
+}
+
+.question .qid {
+    position: absolute;
+    right: 6px;
+    bottom: 0;
+    color: #999;
+    display: block;
+    font-size: 12px;
+}
+
+.question.after-answer .qid {
+    display: none;
+}
+
+.question .hint {
     margin-top: 12px;
     padding: 12px;
-    background: rgba(0, 0, 0, .4);
+    background: url("../images/Background/tweed.png") #282828;
     font-size: 12px;
     color: #fff;
 }
 
-#question-page .input-form {
+.question.after-answer .hint {
+    display: none;
+}
+
+.question .audio {
+    margin-top: 12px;
+    display: none;
+    text-align: center;
+}
+
+.question.after-answer .audio {
+    display: block;
+}
+
+.question .input-form {
     padding: 20px 12px;
 }
 
-#question-page .user-answer {
-    width: 73%;
-    float: left;
+.question.after-answer .input-form {
+    display: none;
+}
+
+.question .user-answer {
+    width: 100%;
+    display: block;
+    font-family: -apple-system-short-body, 'Helvetica Neue', 'Hiragino Kaku Gothic ProN', '游ゴシック Light', 'メイリオ', meiryo, sans-serif;
     font-size: 24px;
-    border: 3px solid #ccc;
-    border-radius: 6px;
-    padding: 6px;
+    padding: 6px 12px;
+    border: none;
     box-sizing: border-box;
 }
 
-#question-page .check-button {
+#question-page .answer-result {
+    width: 100%;
+    position: absolute;
+    bottom: 80px;
+    left: 0;
+    box-sizing: border-box;
+    z-index: 15;
+}
+
+#question-page .result-correct,
+#question-page .result-incorrect {
+    display: none;
+    padding: 8px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background: #fff;
+}
+
+#question-page .result-correct {
+    background: #35ca8a;
+    color: #fff;
+}
+
+#question-page .result-incorrect {
+    background: #ac1212;
+    color: #fff;
+}
+
+.question .correct-answer,
+.question .description {
+    display: none;
+    margin: 20px 12px 0;
+}
+
+.question.after-answer .correct-answer,
+.question.after-answer .description {
+    display: block;
+}
+
+.question .tab-header {
     width: 24%;
-    float: right;
+    padding: 6px 12px 2px;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+
+.question .correct-answer .tab-header {
+    background: #6ABFFB;
+}
+
+.question .correct-answer .correct-answer-text {
+    padding: 8px 16px;
+    background: #fff;
+    border: 1px solid #6ABFFB;
+}
+
+.question .description .tab-header {
+    background: #35ca8a;
+}
+
+.question .description .description-text {
+    padding: 8px 16px;
+    background: #fff;
+    border: 1px solid #35ca8a;
+}
+
+.bottom-button {
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    box-sizing: border-box;
+    z-index: 15;
+}
+
+.bottom-button input {
+    padding: 6px;
     font-size: 18px;
     font-weight: bold;
     line-height: 28px;
     color: #fff;
-    padding: 6px;
-    box-sizing: border-box;
-    border: 3px solid #fff;
-    border-radius: 6px;
-    background: #259327;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 2px 2px rgba(40,40,40,.15);
 }
 
-.user-answer {
+.answer-check .check-button,
+.stage-select .stage-button,
+.stage-select .world-button {
     width: 100%;
+    display: block;
+    background: #ff7c00;
+}
+
+.answer-check .desc-button {
+    width: 70%;
+    float: left;
+    display: none;
+    background: #ac1212;
+}
+
+.answer-check .next-button {
+    width: 24%;
+    float: right;
+    display: none;
+    background: #ff7c00;
+}
+
+#result-rank {
+    margin-top: 80px;
+    padding: 18px 0;
+    background: url("../images/Background/vichy.png") #f3f3e8;
+    box-shadow: 1px 1px 2px 2px rgba(0,0,0,.15);
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    z-index: 15;
+}
+
+.majon-message {
+    margin: 20px;
+    padding: 12px 16px;
+    position: absolute;
+    top: 240px;
+    background: #fff;
+    border-radius: 6px;
+    font-size: 13px;
 }
